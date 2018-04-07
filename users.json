@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8efadf88-a266-4f70-9b2f-5d098cd3942c",
+    "email": "anreiter.simon+ci@gmail.com",
+    "password_hash": "$2a$10$hRwW0r//AqSyzaO2oKUA..R15Nd8jhIY/u2LZJGxIFF67xYM9Ux9i",
+    "provider_credentials": [
+      {
+        "id": "fffb15ee-77d2-44ee-9883-43c9e62589df",
+        "email": "anreiter.simon+ci@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "VR/0C8G6u7FPMiQ8+sAt+tAMG6w9cpt9BSmsnkde69X20yCDjWbvPwRVEJG9\nGTW68sMyMnRn3eD7vIeCf1D1+A==\n"
+      }
+    ]
+  }
+]
